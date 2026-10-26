@@ -11,4 +11,4 @@ for i in range(n-1):
     break
 print(hello world)
 print(mylist)
-#made using ai
+#made using isagi
