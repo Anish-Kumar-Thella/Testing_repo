@@ -12,3 +12,4 @@ for i in range(n-1):
 
 print(mylist)
 #made using ai
+#made using google
